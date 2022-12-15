@@ -1,6 +1,8 @@
 let name = John;
 
-let admin = name;
+let admin = 'name';
+
+alert(admin);
 
 // Numbers
 
